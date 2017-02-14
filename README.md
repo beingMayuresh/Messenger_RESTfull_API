@@ -6,7 +6,7 @@ Social Media Messenger API. This is a RESTful Web service developed using JAX-RS
     
     OUTPUT:
     
-    [
+  [
   {
     "author": "Mayuresh",
     "created": "2017-02-14T00:30:35.335",
